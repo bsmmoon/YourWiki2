@@ -2,10 +2,16 @@
 
 Let's keep it clear...
 
-Platform: ChromeApp
-Language: HTML, CSS, Javacript
-Additional Info:
+<h2>Aim of the Project</h2>
+- App for more personal knowledge base
+- Learn and feel the web application development.
+
+<h2>Platform</h2>
+ChromeApp
+
+<h2>Language</h2>
+HTML, CSS, Javacript
+
+<h2>Additional Info</h2>
 - RESTful
 
-Aim of the project:
-  Learn and feel the web application development.
